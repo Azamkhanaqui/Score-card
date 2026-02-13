@@ -24,7 +24,7 @@ button{
     border-radius: 5px;
 }
 #increment-btn{
-    background-color: darkred;
+    background-color: rgb(238, 53, 53);
 }
 #save-btn{
     background-color: green;
